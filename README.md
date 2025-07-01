@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-This interactive Excel dashboard provides a clear, at-a-glance view of coffee business performance by time, product, geography, and customer. You can slice and dice the data using the timeline and slicers at the top, then immediately see how sales behave across different dimensions.
+# ☕ Coffee Sales Data Analysis Dashboard
+
+## 🎯 Project Objective
+Build a dynamic, interactive Excel dashboard that transforms raw order data into actionable insights. Stakeholders can filter by date, product, geography, and customer to uncover sales trends, identify top markets, and spotlight high-value accounts.
