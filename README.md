@@ -58,6 +58,6 @@ Build a dynamic, interactive Excel dashboard that transforms raw order data into
 ## Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/908fbaae-90f8-4672-9c46-f92a95a5b8c2)
 
-
-
+## 🏁 Conclusion
+This Excel-based Coffee Sales Dashboard brings together multiple data sources, advanced modeling, and interactive visuals to turn raw numbers into actionable business insights. By following a structured process—from data collection and enrichment through modeling, visualization, and validation—created a scalable, user-friendly tool that answers key questions about revenue, customer behavior, product performance and market trends. 
 
