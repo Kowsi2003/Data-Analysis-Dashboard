@@ -55,5 +55,9 @@ Build a dynamic, interactive Excel dashboard that transforms raw order data into
    - Push final workbook and README to GitHub.  
    - Share the repo link for reviewers and recruiters to explore.
 
+## Dashboard
+![Dashboard](https://github.com/user-attachments/assets/908fbaae-90f8-4672-9c46-f92a95a5b8c2)
+
+
 
 
